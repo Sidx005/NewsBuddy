@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Sidx005/NewsBuddy.git",
+"homepage": "https://Sidx005.github.io/NewsBuddy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
